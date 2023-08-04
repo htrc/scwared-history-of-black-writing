@@ -9,7 +9,7 @@ This site is the home of the _History of Black Writing Works_ workset, a collect
 The GitHub [repository][repo], of which this site is a part, includes an introduction to the workset, a list of volumes in the workset, data sets derived from analysis of the workset, and a project report discussing the process of curating and analyzing the workset.
 
 ## Contents
-* [Introduction](introduction.md)
+* Introduction
 * [Repository][repo]
 * Project Report
 
