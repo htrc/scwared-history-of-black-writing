@@ -1,4 +1,4 @@
-This zip archive contains the HTRC Extracted Features files for 1997 volumes of English-language fiction identified by the History of Black Writing at University of Kansas as being authored by African American authors. There is an separate JSON file for each file. 
+This directory contains the HTRC Extracted Features files for 1997 volumes of English-language fiction identified by the History of Black Writing at University of Kansas as being authored by African American authors. There is an separate JSON file for each file. 
 
 The file name prefix is the “clean” HathiTrust ID for the volume. See “clean” HT IDs below. 
 
