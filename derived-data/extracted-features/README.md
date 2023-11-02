@@ -8,7 +8,7 @@ Each json file is compressed with open source [bzip2](http://sourceware.org/bzip
 
 Information about each volume is contained in the metadata section of each JSON file, and the HathiTrust IDs included in the metadata can be used to gather further information about each volume.
 
-For more information on the HTRC Extracted Features Dataset, including detailed information on the data fields in each file, see <https://wiki.htrc.illinois.edu/x/kYC2B>
+For more information on the HTRC Extracted Features Dataset, including detailed information on the data fields in each file, see <https://doi.org/10.13012/R2TE-C227>.
 
 For more information on the History of Black Writing, see <https://hbw.ku.edu/>
 
