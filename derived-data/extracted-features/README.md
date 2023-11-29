@@ -20,6 +20,3 @@ The “clean” version of a volume ID, replaces  the following characters `:`,`
 |:---                         | :---                      |
 | `:`                         | `+`                       |
 | `/`                         | `=`                       |
-| `.`                         | `,`                       |
-
-Creation date: 10 October 2023
